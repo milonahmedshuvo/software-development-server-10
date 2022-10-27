@@ -11,6 +11,7 @@ app.get('/', (req, res)=>{
     res.send("Frist page server is runing")
 })
 
+
 app.get('/course', (req, res)=>{
     res.send(course)
 })
