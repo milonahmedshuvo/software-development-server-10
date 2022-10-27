@@ -6,6 +6,7 @@ app.use(cors())
 const port = 5000;
 const course=require('./data/course.json')
 
+
 app.get('/', (req, res)=>{
     res.send("Frist page server is runing")
 })
