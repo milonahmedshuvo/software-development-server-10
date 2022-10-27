@@ -1,0 +1,75 @@
+[
+    {
+      "id": "1",
+      "img": "https://www.postingtree.com/wp-content/uploads/2022/02/PRESTASHOP12.png",
+      "name": "Mobile App Development",
+      "drescription": " Due to the increase in smartphone users companies are now focusing on developing interactive mobile applications to reach a broader audience base. Whether it is iOS or Android there is a huge scope for Mobile App Developers in this domain. App development refers to the creation of software intended to run on mobile devices optimized with specific software and hardware features. An application is a type of software intended to perform specific tasks defined by the developer. Mobile app development courses will teach you some of the popular programming languages such as Python C# C++ and Java so that you can work on different app development software to create mobile applications running on Android iOS or other operating systems.You can start your career as a Mobile App Developer and upgrade your skills and position as you gain more and more work experience. Android training and iOS development training are the two best courses for mobile app development. ",
+      "ratting": "5,00",
+      "students": "467",
+      "price": "0,99",
+      "author_img": "https://www.m76analytics.com/images/single-img-1.jpg",
+      "author_name": "Alexander",
+      "author_id": "0098753"
+    },
+    {
+      "id": "2",
+      "img": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/_webp_large_1x/public/images/2021/04/06/AI.jpg.webp?itok=FOwHXteY",
+      "name": "Artificial Intelligence",
+      "drescription": "In the past year, Artificial Intelligence and Machine Learning had a huge impact on almost every industry. AI has changed the way we thought about using machines and analyzing data produced by observing the surrounding environment. Recent advancements in computational technologies have enabled the development of smart machines used in various IT and non-IT sectors. AI algorithms are extensively used in software development to optimize the performance of the team and provide a real-time scale that helps in decision-making. Moreover AI techniques are used in system software to optimize a device’s performance. As more companies have started adopting AI/ML in their infrastructure the demand for skilled AI professionals is skyrocketing.To take up an Artificial Intelligence course you should have knowledge of mathematics statistics data analytics and high-level programming languages like Python. The Artificial Intelligence course will help you learn the fundamentals and advanced technology concepts with the help of live projects. It will boost your confidence and help you get a job in your dream company as an AI Engineer. ",
+      "ratting": "5,00",
+      "students": "604",
+      "price": "0,80",
+      "author_img": "https://image.shutterstock.com/image-photo/confident-successful-smiling-businessman-sitting-260nw-366213995.jpg",
+      "author_name": "William",
+      "author_id": "0300456"
+    },
+    {
+      "id": "3",
+      "img": "https://www.3pillarglobal.com/wp-content/uploads/2021/11/C8-Business-Benefits-of-Data-Analytics.jpg",
+      "name": "Data Analytics",
+      "drescription": "The increase in computational power and the availability of low-cost Internet have led to the advent of Big Data in almost every industry. Today, these industries are leveraging the power of Big Data with the help of Data Analytics. So, now is the perfect time to start your career in Data Analytics and Big Data.IT professionals use Data Analytics tools and techniques to find the hidden patterns in the data that help them solve various business problems. This makes the business and software development process in the industries more efficient and profitable. By analyzing the data, they can get better insights into it to make informed decisions.For Data Analytics jobs, candidates should have a bachelor’s degree in computer science, statistics, mathematics, or economics. Plus, a Big Data Analytics course will further enhance their analytical and programming skills in Python, R, Java, Ruby, MATLAB, C++, etc. Familiarity with data manipulation tools such as Tableau, SAS, Oracle, Hive, and SQL would be beneficial for them to advance their career in Big Data Analytics. ",
+      "ratting": "5,00",
+      "students": "483",
+      "price": "0,85",
+      "author_img": "https://image.shutterstock.com/image-photo/businessman-on-background-office-260nw-1032202009.jpg",
+      "author_name": "Jackson",
+      "author_id": "672002"
+    },
+    {
+      "id": "4",
+      "img": "https://ugc.futurelearn.com/uploads/images/c2/14/promo_small_c214d790-1222-4a80-8679-c7d9bcbc43d2.jpg",
+      "name": "Cyber Security",
+      "drescription": "Cyber Security is one of the crucial fronts for enterprises and businesses around the world. With advancements in technology and fields like cloud computing, data security and protection against cybercrimes have become increasingly important for organizations. It is now essential for companies to have a robust infrastructure to prevent them from cybercrimes and hackers.It is necessary to mitigate the risks by removing the vulnerabilities from the software systems, which can make them more secure and prevent incidents such as data theft and cyberattacks. Companies are ready to pay for skilled Cyber Security practitioners who can make their infrastructure safer and secure as no one can afford a cyberattack of any degree.To kick-start your career in Cyber Security, you need to have a bachelor’s degree in fields such as computer science, information technology, or information security. You can also go for a Cyber Security course that will help you understand this complex domain in-depth. You can advance your career further as a Cyber Security Manager once you have gained enough experience as a certified Cyber Security practitioner.",
+      "ratting": "5,00",
+      "students": "973",
+      "price": "0,68",
+      "author_img": "https://www.stylostreet.com/wp-content/uploads/2018/11/working-women-Hijab-designs-9-1-800x445.jpg",
+      "author_name": "Benjamin",
+      "author_id": "456643"
+    },
+    {
+      "id": "5",
+      "img": "https://celtis.net/wp-content/uploads/2020/07/celtis-website-services-Improve-at-every-level.png",
+      "name": "Software Quality Testing",
+      "drescription": "Software quality testing or SQT is an integral part of the software development life cycle, where software models are tested before moving on to the next stage. SQT automation refers to the techniques used to automate this process with the help of pre-scripted tests for software models. It makes the software testing process more secure while, at the same time, improving its efficiency.SQT automation helps companies automate the process of software testing and improve the efficiency of the development process. Plus, it helps them design better test cases and make software and applications more secure. An SQT automation course will help you master the right tools and techniques used to automate the testing process. You will learn about software testing tools such as Appium, Selenium, Ranorex, JMeter, etc., and gain more knowledge in the domain.",
+      "ratting": "4,00",
+      "students": "827",
+      "price": "0,45",
+      "author_img": "https://img.freepik.com/free-photo/young-attractive-woman-modern-office-desk-working-with-laptop-thinking-about-something_1258-104524.jpg?w=2000",
+      "author_name": "Isabella",
+      "author_id": "974332"
+    },
+    {
+      "id": "6",
+      "img": "https://loamics.com/wp-content/uploads/2021/12/shutterstock_1626739732-02-1500x730.jpg",
+      "name": "Augmented Analytics",
+      "drescription": "Through augmented analytics, organizations combine AI techniques and Machine Learning algorithms to transform raw business data into valuable insights. In other words, augmented analytics is used for data preparation, analysis, and insight generation.It enables an organization to transform the business data into actionable insights with the help of Business Intelligence tools and techniques. Enterprises are heavily investing in Business Intelligence to analyze their business data, which eventually leads them to make smart business decisions and improve their performance in the market. Thereby, they increase the demand for job roles in augmented analytics.You should have a bachelor’s degree in computer science, mathematics, or Data Science to kick-start your career in augmented analytics. To further enhance your skills and grow in your career, you can opt for certification in the related technologies and gain more knowledge in the domain. You can also get certified in BI platforms such as Power BI, Tableau, and Cognos. ",
+      "ratting": "5,00",
+      "students": "567",
+      "price": "0,99",
+      "author_img": "https://media.istockphoto.com/photos/portrait-of-a-beautiful-young-businesswoman-picture-id1364930002?b=1&k=20&m=1364930002&s=170667a&w=0&h=UxlxksNkod2YEFLK9wdxeB6KLIC7stIonoUubOvUq38=",
+      "author_name": "Amelia",
+      "author_id": "0039836"
+    }
+    
+  ]
