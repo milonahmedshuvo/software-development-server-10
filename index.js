@@ -16,6 +16,7 @@ app.get('/course', (req, res)=>{
     res.send(course)
 })
 
+
 app.get('/course/:id', (req, res)=>{
     const id=req.params.id;
     const idData=course.find((crs)=>crs.id ==id)
